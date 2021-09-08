@@ -228,7 +228,7 @@ class Track implements ModelInterface, ArrayAccess, \JsonSerializable
     public const TYPE_TEXT = 'text';
     public const MAX_CHANNEL_LAYOUT_MONO = 'mono';
     public const MAX_CHANNEL_LAYOUT_STEREO = 'stereo';
-    public const MAX_CHANNEL_LAYOUT__5_2 = '5.2';
+    public const MAX_CHANNEL_LAYOUT__5_2 = '5.1';
     public const MAX_CHANNEL_LAYOUT__7_1 = '7.1';
     public const TEXT_TYPE_SUBTITLES = 'subtitles';
     
